@@ -40,6 +40,7 @@ export const ProductCard = ({
 		initialValues,
 	});
 
+	// El componente expone las props personalizables
 	return (
 		<Provider
 			value={{
